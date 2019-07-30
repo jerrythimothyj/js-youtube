@@ -1,1 +1,1 @@
-# js-youtube
+https://www.npmjs.com/package/live-server
